@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "epl::vector&lt;int&gt;::size() const:vector.h">
+      </ContextState>
+      <ContextState
+         contextName = "PhaseA_constructors_Test::TestBody():main.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "y[0]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "epl::vector&lt;int&gt;::operator[](unsigned long long):vector.h">
+         <PersistentStrings>
+            <PersistentString
+               value = "buffer[index]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "epl::vector&lt;int&gt;::push_back(int const&amp;):vector.h">
+         <PersistentStrings>
+            <PersistentString
+               value = "buffer[end-1]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "epl::vector&lt;int&gt;::vector(unsigned long long):vector.h">
+      </ContextState>
+      <ContextState
+         contextName = "epl::vector&lt;int&gt;::resize(unsigned long long):vector.h">
+         <PersistentStrings>
+            <PersistentString
+               value = "tmp[_start+i-start]">
+            </PersistentString>
+            <PersistentString
+               value = "buffer[i]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "epl::vector&lt;int&gt;::push_front(int const&amp;):vector.h">
+         <PersistentStrings>
+            <PersistentString
+               value = "buffer[end-1]">
+            </PersistentString>
+            <PersistentString
+               value = "buffer[start]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "epl::vector&lt;T&gt;::push_back(T const&amp;):vector.h">
+         <PersistentStrings>
+            <PersistentString
+               value = "length">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
