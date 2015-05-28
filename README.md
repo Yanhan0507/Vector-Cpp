@@ -2,4 +2,4 @@
 
 ## Overview
 I implement this vector by myself.
-Also, there is some good gtest file to test it.
+Also, there are some good test cases(gtest) for it.
